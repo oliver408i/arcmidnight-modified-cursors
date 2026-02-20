@@ -67,3 +67,5 @@ w-resize size_hor
 watch wait
 whats_this help
 xterm text
+ns-resize size_ver
+ew-resize size_hor

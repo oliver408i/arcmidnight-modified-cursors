@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/ArcMidnight-cursors" ]; then
-  rm -r "$DEST_DIR/ArcMidnight-cursors"
+if [ -d "$DEST_DIR/ArcMidnight-cursors-mod" ]; then
+  rm -r "$DEST_DIR/ArcMidnight-cursors-mod"
 fi
 
-cp -pr dist $DEST_DIR/ArcMidnight-cursors
+cp -pr dist $DEST_DIR/ArcMidnight-cursors-mod
 
 echo "Finished..."
 
