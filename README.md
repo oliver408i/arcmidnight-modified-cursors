@@ -5,17 +5,14 @@ based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 This version removes the hand-style pointer and other hand-based cursors, replacing them with a variation of the default arrow cursor for a more consistent look.
 
 ## Changes
-- Removed hand pointer
-- Replaced hand-based cursors with modified default arrow variant
-
-## Preview
 
 Left: Default arrow cursor  
-Right: New pointer cursor  
+Right: This theme's new pointer cursor (this is the hand normally)  
 
 ![Default](src/x2/default.png)![Pointer](src/x2/pointer.png)
 
-See below for full preview
+## Full Preview
+![ArcMidnight](cursor-grid.png)
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
@@ -32,9 +29,6 @@ sudo ./install.sh
 ```
 
 Then set the theme with your preferred desktop tools (i.e. Gnome Tweaks)
-
-## Full Preview
-![ArcMidnight](cursor-grid.png)
 
 ## Building from source
 You'll find everything you need to build and modify this cursor set in
